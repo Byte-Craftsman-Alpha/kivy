@@ -1,7 +1,7 @@
 Kivy
 ====
 
-<img align="right" height="256" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"/>
+<img align="right" height="254" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"/>
 
 [Kivy](https://www.kivy.org) is an open-source [Python](https://python.org) framework
 for developing GUI apps that work cross-platform, including desktop, mobile and
